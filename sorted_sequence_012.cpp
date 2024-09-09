@@ -51,8 +51,4 @@ int main() {
 }
 
 
-output: 
-Sorted sequence is: 0 0 0 0 1 1 1 1 1 1 2 2 2 
-PS C:\Users\Sejal\OneDrive\Desktop\30daysprograaminglanguage> 
-
 
